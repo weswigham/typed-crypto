@@ -1,0 +1,35 @@
+{
+  "name": "typed-crypto",
+  "version": "1.0.0",
+  "description": "TypeScript typings for the core crypto library",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "typescript crypto typed module definitely"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weswigham/typed-crypto.git"
+  },
+  "keywords": [
+    "typescript",
+    "crypto",
+    "typed",
+    "module",
+    "definitely"
+  ],
+  "author": "weswigham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weswigham/typed-crypto/issues"
+  },
+  "homepage": "https://github.com/weswigham/typed-crypto#readme",
+  "dependencies": {
+    "typed-node": "^1.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^1.6.0-beta"
+  }
+}
